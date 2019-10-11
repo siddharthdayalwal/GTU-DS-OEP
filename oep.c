@@ -1,4 +1,7 @@
 // Program to find maximum sum subarray in a given 2D array 
+
+// I		N		P		U		T
+
 #include <stdio.h> 
 #include <string.h> 
 #include <limits.h> 
@@ -124,3 +127,9 @@ int main()
 
 	return 0; 
 } 
+
+//	O		U		T		P		U		T
+
+//	(Top, Left) (1, 1)
+//	(Bottom, Right) (3, 3)
+//	Max sum is: 29
