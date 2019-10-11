@@ -5,6 +5,13 @@
 #define ROW 4 
 #define COL 5 
 
+// here we have taken the static matrix of 4*5
+
+//	|  1	 2      -1	-4	20 |
+//	| -8	-3	 4	 2	 1 |
+//	|  3	 8	10	 1	 3 |
+//	| -4	-1	 1	 7	-6 |
+
 // Implementation of Kadane's algorithm for 1D array. The function 
 // returns the maximum sum and stores starting and ending indexes of the 
 // maximum sum subarray at addresses pointed by start and finish pointers 
