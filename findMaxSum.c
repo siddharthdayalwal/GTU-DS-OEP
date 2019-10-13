@@ -44,3 +44,5 @@ void findMaxSum(int M[][COL])
 	printf("(Bottom, Right) (%d, %d)\n", finalBottom, finalRight); 
 	printf("Max sum is: %d\n", maxSum); 
 } 
+
+// this is the code for find max sum
